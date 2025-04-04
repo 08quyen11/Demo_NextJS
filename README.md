@@ -14,6 +14,8 @@ pnpm dev
 bun dev
 ```
 ![image](https://github.com/user-attachments/assets/8d9bf4d8-f30f-4ad4-853b-bf5ff3cf8fe1)
+![image](https://github.com/user-attachments/assets/02bb3276-3762-47db-bb8d-c6493e7fc55f)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
