@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+![image](https://github.com/user-attachments/assets/8d9bf4d8-f30f-4ad4-853b-bf5ff3cf8fe1)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
